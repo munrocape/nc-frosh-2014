@@ -1,4 +1,5 @@
 #New College Frosh 2014 Website
+![homepage.png](homepage.png)
 This is an archive of the website used for the 2014 edition of New College's Orientation Week. New College is one of the seven colleges that comprise the University of Toronto in downtown Toronto, Ontario, Canada.
 
 While the site was taken down following the frosh week, it has been rehosted for posterity [on GitHub pages](http://munrocape.github.io/nc-frosh-2014/).
