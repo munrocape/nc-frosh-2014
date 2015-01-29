@@ -9,4 +9,4 @@ Themes for the site were licensed under [CC 3.0](https://creativecommons.org/lic
 
 In particular, the landing page was based off of the [Counter coming soon page](http://www.blacktie.co/2014/03/counter-coming-soon-page/). I added some buttons to proceed to the main frosh page or to sign up.
 
-The main frosh page was a modified version of the [Shield theme](http://www.blacktie.co/2014/02/shield-one-page-theme/). I changed up the ordering of sections, the images, and content. This was my first exposure and experience with bootstrap and I used this theme as the scaffolding for which to build and modify. 
+The main frosh page was a modified version of the [Shield theme](http://www.blacktie.co/2014/02/shield-one-page-theme/). I changed up the ordering of sections, the images, and content. This was my first exposure and experience with bootstrap and I used this theme as the scaffolding for which to build upon and modify. 
